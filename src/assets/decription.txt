@@ -1,0 +1,14 @@
+~ click on a card to rotate it
+~ compare if content of previous card is similar to the current card
+~ if both cards are similar then keep them unflipped
+~ if both cards are diffrent then close them
+
+~ the cards are in a 4 x 4 matrix
+~ the card is made of numbers 1 to 8 randomly placed. 
+~ placement takes place on the first reload.
+~ game reloads when user clicks restart, when counter is down to 0(30 seconds game)
+~ on reload, generate random numbers for each card.
+
+~ check state of each card. if state of clicked card === state of previous card keep.
+~ store state of previous card
+~ 
